@@ -13,6 +13,23 @@ RezoViz was very useful because it could recognize place names as place names an
 
 ### AntConc
 
+To try and get more results we tried to import our text into Antconc. We had no luck with this program at all. The program would not recognize .txt files aside from those made in default word applications. Even after getting it to recognize our text, it didn`t cooperate. We got results like this by searching the word "Khan":
+
+![http://i17.photobucket.com/albums/b99/Dragon_Tamer13/eh.jpg]
+
+Clearly there was some other text that the program read, but we weren't able to figure out where from, or why. 
+
+Not to be discouraged we tried another Antconc program, this time AntWordProfiler. Unlike AntConc, Profiler was able to recognize all of our .txt files, no matter what program they were created in. This program also yielded better results, but still left us confused. 
+
+![](http://i17.photobucket.com/albums/b99/Dragon_Tamer13/iunno.jpg)
+
+It seems like using AntWordProfiler as a comparsion tool would lead to a more comprehensive view of the results, but just examining one body of text didn't provide us with a better understanding of the material than Voyant did with it's (relatively) easier interface, and illustrative visuals. 
+
+
+
+
+
+
 ### The Topic Modeling Tool
 
 ![topic modeling](http://i1191.photobucket.com/albums/z467/risssssy/Screen%20Shot%202016-01-26%20at%207.38.50%20AM.png)
