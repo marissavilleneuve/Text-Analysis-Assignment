@@ -6,11 +6,10 @@ For our text analysis assignment, we decided to use [The Travels of Marco Polo](
 In Voyant, we used the tools Bubblelines and RezoViZ to look at the appearance of different places in the text.
 
 ![bubblelines](http://i1191.photobucket.com/albums/z467/risssssy/Screen%20Shot%202016-01-25%20at%2010.52.57%20AM.png)
+With Bubblelines, by putting in different places we know Marco Polo visited, we could see the appearance of those places in the text and visualize his travels over the course of the book, in a way.
 
 ![rezoviz](http://i1191.photobucket.com/albums/z467/risssssy/Screen%20Shot%202016-01-19%20at%2011.06.19%20PM.png)
-
-
-I will say something about this 
+RezoViz was very useful because it could recognize place names as place names and created a visualization of them all with Marco Polo, the traveler, in the centre.  
 
 ### AntConc
 
