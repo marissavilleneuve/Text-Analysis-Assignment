@@ -34,6 +34,7 @@ It seems like using AntWordProfiler as a comparsion tool would lead to a more co
 
 ![topic modeling](http://i1191.photobucket.com/albums/z467/risssssy/Screen%20Shot%202016-01-26%20at%207.38.50%20AM.png)
 
+We asked the topic modeling tool to come up with 10 topics within the text.  Unsurprisingly, the ten topics it came up with all contained geographic words and seemed to be grouped almost by place (one topic descibed Polo's travels in China, another India, etc.).  This is fascinating but did not give us much new information to work with.  
 
 ### Conclusions
 We came to this assignment with the preconceived notions that The Travels of Marco Polo was at its heart about geography and that these tools would elucidate the relationships of the places within the novel or at least give a greater understanding of their role.  We did not end up learning anything overly exciting about the text due to the time spent struggling with the tools more than anything.  With Voyant, the tool we were most familiar with, we were able to do the most, through its ability to network places.  But all the tools mostly worked to reaffirm our base assumption that the book was about geography.  
