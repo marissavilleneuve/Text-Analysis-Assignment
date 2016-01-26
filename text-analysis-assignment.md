@@ -15,7 +15,7 @@ RezoViz was very useful because it could recognize place names as place names an
 
 To try and get more results we tried to import our text into Antconc. We had no luck with this program at all. The program would not recognize .txt files aside from those made in default word applications. Even after getting it to recognize our text, it didn`t cooperate. We got results like this by searching the word "Khan":
 
-![http://i17.photobucket.com/albums/b99/Dragon_Tamer13/eh.jpg]
+![](http://i17.photobucket.com/albums/b99/Dragon_Tamer13/eh.jpg)
 
 Clearly there was some other text that the program read, but we weren't able to figure out where from, or why. 
 
